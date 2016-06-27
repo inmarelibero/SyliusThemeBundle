@@ -22,11 +22,11 @@
     "require": {
         "php": "^5.6|^7.0",
 
-        "symfony/symfony": "^2.8",
+        "symfony/symfony": "^3.0",
         "zendframework/zend-hydrator": "^1.0|^2.0"
     },
     "require-dev": {
-        "sylius/settings-bundle": "^0.19",
+        "sylius/settings-bundle": "dev-symfony_3_compatibility",
 
         "matthiasnoback/symfony-config-test": "^1.4.0",
         "matthiasnoback/symfony-dependency-injection-test": "^0.7.6",
